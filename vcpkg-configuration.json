@@ -1,0 +1,12 @@
+{
+    "registries": [
+        {
+            "kind": "git",
+            "repository": "https://github.com/Neithari/my-vcpkg-registry",
+            "baseline": "c7cb2200ecb465952c8ff6c5b45c30793cdac9e5",
+            "packages": [
+                "dcmtk"
+            ]
+        }
+    ]
+}
